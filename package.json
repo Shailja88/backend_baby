@@ -1,0 +1,14 @@
+{
+  "name": "backend_baby",
+  "version": "1.0.0",
+  "description": "\"Revision of men\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cat-me": "^1.0.3"
+  }
+}
